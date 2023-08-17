@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avadhut0123" alt="avadhut0123" /></a> </p> 
 
-<p align="left"> <a href="https://twitter.com/avadhut_17" target="blank"><img src="https://img.shields.io/twitter/follow/avadhut_17?logo=twitter&style=for-the-badge" alt="avadhut_17" /></a> </p>
 
 - 🌱 I’m currently learning **Master Of Computer Application,Django**
 
@@ -13,7 +12,7 @@
 
 - 📫 How to reach me **avadhutwakkar123@gmail.com**
 
-- 📄 Know about my experiences [www.google.com](www.google.com)
+<!-- - 📄 Know about my experiences [www.google.com](www.google.com)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
