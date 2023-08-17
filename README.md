@@ -6,13 +6,18 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avadhut0123" alt="avadhut0123" /></a> </p> 
 
 
+- 🔭 I’m currently working with [EMIZA SUPPLY CHAIN](https://emizainc.com/)
+
 - 🌱 I’m currently learning **Master Of Computer Application,Django**
+
+- 👨‍💻 All of my projects are available at [www.google.com](www.google.com)
 
 - 💬 Ask me about **Python,HTML,CSS**
 
 - 📫 How to reach me **avadhutwakkar123@gmail.com**
 
-<!-- - 📄 Know about my experiences [www.google.com](www.google.com)-->
+- 📄 Know about my experiences [My_Resume]([https://drive.google.com/drive/my-drive](https://drive.google.com/file/d/1KcOisz9zJ_fU3ZuwfOuta7wlb_i1lMIR/view?usp=sharing))
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
