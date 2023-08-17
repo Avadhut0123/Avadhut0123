@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avadhut0123" alt="avadhut0123" /></a> </p> 
 
 
-- 🔭 I’m currently working with [EMIZA SUPPLY CHAIN](https://emizainc.com/)
+- 🔭 I’m currently working with [EMIZA SUPPLY CHAIN](https://emizainc.com/) as Associate Solution Engineer
 
 - 🌱 I’m currently learning **Master Of Computer Application,Django**
 
