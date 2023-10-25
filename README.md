@@ -18,6 +18,9 @@
 
 - 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/1KcOisz9zJ_fU3ZuwfOuta7wlb_i1lMIR/view?usp=sharing)
 
+<p><img align = "right" alt="coding" width= "100" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div align="left">
