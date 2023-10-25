@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avadhut0123&label=Profile%20views&color=0e75b6&style=flat" alt="avadhut0123" /> </p>
 
-<img align = "right" alt="coding" width= "100" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 - 🔭 I’m currently working with [EMIZA SUPPLY CHAIN](https://emizainc.com/) as Associate Solution Engineer
 
