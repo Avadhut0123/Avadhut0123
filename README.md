@@ -1,4 +1,4 @@
-![image](https://github.com/Avadhut0123/Avadhut0123/assets/110726054/99ec1517-d5ed-48dd-b8d0-ce44d068afd4)<h1 align="center">Hi 👋, I'm Avadhut Arun Wakkar</h1>
+<h1 align="center">Hi 👋, I'm Avadhut Arun Wakkar</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
 
 
