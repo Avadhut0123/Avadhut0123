@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **avadhutwakkar123@gmail.com**
 
-- 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/1KcOisz9zJ_fU3ZuwfOuta7wlb_i1lMIR/view?usp=sharing)
+- 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/1wGqxv0GODWUDAi78SDRU4ke8XKZT7KbG/view?usp=drive_link)
 
 
 
