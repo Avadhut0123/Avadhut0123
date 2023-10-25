@@ -1,4 +1,4 @@
-![logo](https://github.com/Avadhut0123/Avadhut0123/blob/Master/GITHUB_BANNER.jpeg)
+![logo](https://github.com/Avadhut0123/Avadhut0123/blob/Master/GITHUB_BANNER.jpeg | width=600)
 <h1 align="center">Hi 👋, I'm Avadhut Arun Wakkar</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
 
