@@ -1,4 +1,4 @@
-<img src = https://github.com/Avadhut0123/Avadhut0123/blob/Master/github-header-image.png width="1000">
+<img src = https://github.com/Avadhut0123/Avadhut0123/blob/Master/GITHUB_BANNER.jpeg width="1000">
 <h1 align="center">Hi 👋, I'm Avadhut Arun Wakkar</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
 
