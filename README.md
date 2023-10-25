@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Avadhut Arun Wakkar</h1>
+![image](https://github.com/Avadhut0123/Avadhut0123/assets/110726054/99ec1517-d5ed-48dd-b8d0-ce44d068afd4)<h1 align="center">Hi 👋, I'm Avadhut Arun Wakkar</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
+
+<img align = "right" alt="coding" width= "400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avadhut0123&label=Profile%20views&color=0e75b6&style=flat" alt="avadhut0123" /> </p>
 
