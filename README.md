@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Avadhut Arun Wakkar</h1>
+<h1 align="center">Hi 👋, I am Avadhut Arun Wakkar</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avadhut0123&label=Profile%20views&color=0e75b6&style=flat" alt="avadhut0123" /> </p>
 
 <p><img align = "right" alt="coding" width= "400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></p>
-
 
 - 🔭 I’m currently working with [EMIZA SUPPLY CHAIN](https://emizainc.com/) as Associate Solution Engineer
 
@@ -19,9 +17,6 @@
 
 - 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/1wGqxv0GODWUDAi78SDRU4ke8XKZT7KbG/view?usp=drive_link)
 
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div align="left">
@@ -30,7 +25,6 @@
   </a>
  
 </div>
-
 
 </p>
 
@@ -42,4 +36,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avadhut0123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /><br><br>
   <img src="https://streak-stats.demolab.com?user=avadhut0123&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
