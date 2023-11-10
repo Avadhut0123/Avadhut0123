@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Master Of Computer Application,Django**
 
-- 👨‍💻 All of my projects are available at [www.google.com](www.google.com)
-
 - 💬 Ask me about **Python,HTML,CSS**
 
 - 📫 How to reach me **avadhutwakkar123@gmail.com**
