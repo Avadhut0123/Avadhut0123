@@ -1,8 +1,4 @@
-<p align=”center”>
-
-<img width=”200" height=”200" src=”https://github.com/Avadhut0123/Avadhut0123/blob/Master/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png" alt=”my banner”>
-
-</p>
+<img src="https://github.com/Avadhut0123/Avadhut0123/blob/Master/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png" alt="banner that says Avadhut Wakkar - software developer, designer">
 <h1 align="center">Hi 👋, I am Avadhut Arun Wakkar</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
 
