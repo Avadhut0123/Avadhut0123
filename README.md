@@ -10,7 +10,7 @@
 <p><img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /></p>
 
 - 🔭 I’m currently working at **[Creative Information Technology, Inc.](https://citi-us.com/about-us)** as a **Software Test Engineer**
-- 🌱 I’m learning and practicing **Selenium WebDriver | TestNG | Cucumber | Java | Python Automation**
+- 🌱 I’m learning and practicing **Selenium WebDriver | TestNG | Cucumber | Java Automation**
 - 🧪 Strong foundation in **Manual Testing, BlackBox Testing, API Testing**
 - 💬 Ask me about **Test Case Design, Bug Reporting, Selenium Automation, Agile Testing**
 - 📫 Reach me at **avadhutwakkar123@gmail.com**
@@ -29,15 +29,31 @@
 
 <h3 align="left">🧰 Tools & Technologies:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <!-- Programming Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+
+  <!-- Automation Tools -->
   <img src="https://raw.githubusercontent.com/Srinivas11789/Readme_icons/main/selenium.svg" alt="selenium" width="40" height="40"/>
   <img src="https://github.com/Avadhut0123/Avadhut0123/assets/153173101/31435cd6-5c10-4e94-8ae1-799efac0d73e" alt="testng" width="40" height="40"/>
+  <img src="https://github.com/Avadhut0123/Avadhut0123/assets/153173101/fd3d1832-e3d2-4d35-8c95-865ed23c9dc6" alt="cucumber" width="40" height="40"/>
+
+  <!-- API Testing -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+
+  <!-- Project Management -->
+  <img src="https://github.com/Avadhut0123/Avadhut0123/assets/153173101/f80be7ab-421e-4ef4-b165-b6b1d1045c5e" alt="jira" width="40" height="40"/>
+
+  <!-- Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+
+  <!-- Web Tech -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+
+  <!-- GitHub -->
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/>
 </p>
 
 
