@@ -6,15 +6,15 @@
 
 <p><img align = "right" alt="coding" width= "400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></p>
 
-- 🔭 I’m currently working with [EMIZA SUPPLY CHAIN](https://emizainc.com/) as Associate Solution Engineer
+- 🔭 I’m currently working with [Creative Information Technology, Inc.](https://citi-us.com/about-us) as Software Test Engineer
 
-- 🌱 I’m currently learning **Master Of Computer Application,Django**
+- 🌱 I’m currently learning **Selenium Automation**
 
-- 💬 Ask me about **Python,HTML,CSS**
+- 💬 Ask me about **Manual Testing, BlackBox Testing, Automation in Selenium **
 
 - 📫 How to reach me **avadhutwakkar123@gmail.com**
 
-- 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/1wGqxv0GODWUDAi78SDRU4ke8XKZT7KbG/view?usp=drive_link)
+- 📄 Know about my experiences [My_Resume]([https://drive.google.com/file/d/1wGqxv0GODWUDAi78SDRU4ke8XKZT7KbG/view?usp=drive_link](https://drive.google.com/file/d/1OSoonmQ-Oo2j5IRWgKSr8CmcfJyOOlgB/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
