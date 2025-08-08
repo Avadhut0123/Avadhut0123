@@ -13,6 +13,7 @@
 - 🌱 I’m learning and practicing **Selenium WebDriver | TestNG | Cucumber | Java Automation**
 - 🧪 Strong foundation in **Manual Testing, BlackBox Testing, API Testing**
 - 💬 Ask me about **Test Case Design, Bug Reporting, Selenium Automation, Agile Testing**
+- 🏅 I’m an **ISTQB Certified Tester – Foundation Level**
 - 📫 Reach me at **avadhutwakkar123@gmail.com**
 - 📄 [My Resume](https://drive.google.com/file/d/1OSoonmQ-Oo2j5IRWgKSr8CmcfJyOOlgB/view?usp=drive_link)
 
