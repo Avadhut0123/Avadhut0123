@@ -35,9 +35,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 
   <!-- Automation Tools -->
-  <img src="https://raw.githubusercontent.com/Srinivas11789/Readme_icons/main/selenium.svg" alt="selenium" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" alt="selenium" width="40" height="40"/>
   <img src="https://github.com/Avadhut0123/Avadhut0123/assets/153173101/31435cd6-5c10-4e94-8ae1-799efac0d73e" alt="testng" width="40" height="40"/>
-  <img src="https://github.com/Avadhut0123/Avadhut0123/assets/153173101/fd3d1832-e3d2-4d35-8c95-865ed23c9dc6" alt="cucumber" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/cucumber/cucumber/main/images/cucumber-logo.svg" alt="cucumber" width="40" height="40"/>
 
   <!-- API Testing -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
