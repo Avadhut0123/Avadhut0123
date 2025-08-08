@@ -31,14 +31,15 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://upload.vectorlogo.zone/logos/selenium/images/26d5b236-6fc1-4bbf-931c-8fd52b6d13c2.svg" alt="selenium" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/TestNG_Logo.png" alt="testng" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Srinivas11789/Readme_icons/main/selenium.svg" alt="selenium" width="40" height="40"/>
+  <img src="https://github.com/Avadhut0123/Avadhut0123/assets/153173101/31435cd6-5c10-4e94-8ae1-799efac0d73e" alt="testng" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </p>
+
 
 ---
 
