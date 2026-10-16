@@ -1,77 +1,125 @@
 <img src="https://github.com/Avadhut0123/Avadhut0123/blob/Master/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png" alt="banner that says Avadhut Wakkar - software developer, designer">
 
-<h1 align="center">Hi 👋, I'm Avadhut Arun Wakkar</h1>
-<h3 align="center">Aspiring QA Engineer | Manual & Automation Testing Enthusiast</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=avadhut0123&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<h1 align="center">Hi 👋, I'm Avadhut Wakkar</h1>
 
-<p><img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /></p>
+<h3 align="center">
+  Software Test Engineer | Manual Testing | Selenium Automation
+</h3>
 
-- 🔭 I’m currently working at **[Creative Information Technology, Inc.](https://citi-us.com/about-us)** as a **Software Test Engineer**
-- 🌱 I’m learning and practicing **Selenium WebDriver | TestNG | Cucumber | Java Automation**
-- 🧪 Strong foundation in **Manual Testing, BlackBox Testing, API Testing**
-- 💬 Ask me about **Test Case Design, Bug Reporting, Selenium Automation, Agile Testing**
-- 🏅 I’m an **ISTQB Certified Tester – Foundation Level**
-- 📫 Reach me at **avadhutwakkar809@gmail.com**
-- 📄 [My Resume](https://drive.google.com/file/d/1OSoonmQ-Oo2j5IRWgKSr8CmcfJyOOlgB/view?usp=drive_link)
 
----
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/avadhut-wakkar-671a7b184/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="LinkedIn" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/avadhut-wakkar753/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Avadhut0123">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://avadhutwakkarportfolio.lovable.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0A7EA4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
+
 ---
 
-<h3 align="left">🧰 Tools & Technologies:</h3>
-<p align="left">
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+## 👨‍💻 About Me
 
-  <!-- Automation Tools -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" alt="selenium" width="40" height="40"/>
-  <img src="https://github.com/Avadhut0123/Avadhut0123/assets/153173101/31435cd6-5c10-4e94-8ae1-799efac0d73e" alt="testng" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/cucumber/cucumber/main/images/cucumber-logo.svg" alt="cucumber" width="40" height="40"/>
+I'm a Software Test Engineer with 4+ years of experience in manual and automation testing. I focus on validating web applications, designing effective test scenarios, identifying defects, and improving software quality through structured testing practices.
 
-  <!-- API Testing -->
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+- 💼 **Current Role:** Software Test Engineer at Creative Information Technology, Inc.
+- 🧪 **Testing:** Functional, Regression, Smoke, Sanity, Integration, UI, and Cross-Browser Testing
+- 🤖 **Automation:** Selenium WebDriver, Java, TestNG, and Maven
+- 🏗️ **Framework Design:** Page Object Model (POM)
+- 🔌 **API Testing:** Postman and Swagger
+- 🗄️ **Database Testing:** SQL and backend data validation
+- 📋 **Tools:** Jira, Azure DevOps, Git, and GitHub
+- 🏅 **Certification:** ISTQB Certified Tester – Foundation Level
 
-  <!-- Project Management -->
-  <img src="https://github.com/Avadhut0123/Avadhut0123/assets/153173101/f80be7ab-421e-4ef4-b165-b6b1d1045c5e" alt="jira" width="40" height="40"/>
 
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+## 🛠️ Skills & Technologies
 
-  <!-- Web Tech -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+### Testing
 
-  <!-- GitHub -->
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/>
+<p>
+  <img src="https://img.shields.io/badge/Manual_Testing-2E8B57?style=flat-square" alt="Manual Testing"/>
+  <img src="https://img.shields.io/badge/Functional_Testing-2E8B57?style=flat-square" alt="Functional Testing"/>
+  <img src="https://img.shields.io/badge/Regression_Testing-2E8B57?style=flat-square" alt="Regression Testing"/>
+  <img src="https://img.shields.io/badge/Smoke_%26_Sanity_Testing-2E8B57?style=flat-square" alt="Smoke and Sanity Testing"/>
+  <img src="https://img.shields.io/badge/API_Testing-007ACC?style=flat-square" alt="API Testing"/>
+  <img src="https://img.shields.io/badge/Database_Testing-6C757D?style=flat-square" alt="Database Testing"/>
 </p>
 
+### Automation & Programming
 
----
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/TestNG-DC524A?style=flat-square" alt="TestNG"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven"/>
+</p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=avadhut0123&show_icons=true&theme=dracula&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avadhut0123&layout=compact&theme=dracula" height="150" />
-  <img src="https://streak-stats.demolab.com?user=avadhut0123&theme=dracula&hide_border=false" height="150" />
-</div>
+### API, Database & Tools
 
----
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
-<h3 align="left">📌 Currently Exploring:</h3>
+## 🚀 Featured Projects
 
-- ✅ Writing End-to-End Test Scenarios with Selenium & TestNG
-- ✅ Automating Regression Test Suites
-- ✅ Git & GitHub for Version Control
-- ✅ Agile Testing & Jira for Project Management
+### 1. Swag Labs Automation
+
+A web UI automation project using Selenium WebDriver and Java to practise automated application testing.
+
+**Technologies:** Selenium WebDriver, Java, TestNG
+
+<a href="https://github.com/Avadhut0123/SwagLabsAutomation">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Swag Labs Automation Project"/>
+</a>
+
+### 2. Upcoming Automation Project
+
+I'm developing another automation project to strengthen my practical skills in framework design, reusable test scripts, test execution, and reporting.
+
+<a href="https://github.com/Avadhut0123?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20Repositories-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub Repositories"/>
+</a>
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Avadhut0123&show_icons=true&hide_title=true&hide_rank=true&theme=transparent"
+    alt="GitHub activity statistics"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avadhut0123&layout=compact&theme=transparent&langs_count=6"
+    alt="Most-used programming languages"
+    height="165"
+  />
+</p>
+
+## 📚 Currently Learning
+
+- Improving Selenium automation framework design
+- Building maintainable and reusable automated test scripts
+- Strengthening API and database testing skills
+- Exploring CI/CD integration for automated testing
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/avadhut-wakkar753/">LinkedIn</a> |
+  <a href="https://github.com/Avadhut0123">GitHub</a> |
+  <a href="https://avadhutwakkarportfolio.lovable.app/">Portfolio Website</a>
+</p>
+
+<p align="center">
+  <i>Committed to improving software quality through effective testing and continuous learning.</i>
+</p>
